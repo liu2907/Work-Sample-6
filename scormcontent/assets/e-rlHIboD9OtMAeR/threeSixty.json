@@ -1,0 +1,32 @@
+{
+  "version": "3.61.27106.0",
+  "course_id": "5ljpMoKSCKi_course_id",
+  "title": "Home Assessment Front Yard",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Front Yard"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6UNrklkA8Vt",
+      "title": "Front Yard",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5v1BR1GNkOx",
+      "title": "Front Yard",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

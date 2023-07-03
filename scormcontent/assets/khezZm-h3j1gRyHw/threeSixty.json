@@ -1,0 +1,32 @@
+{
+  "version": "3.61.27106.0",
+  "course_id": "5zm2DHwLaCM",
+  "title": "Attention",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Red Flags"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TcSeVe9Q16",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5p7zgNOAnCS",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
